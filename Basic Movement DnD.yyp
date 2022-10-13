@@ -1,7 +1,9 @@
 {
   "resources": [
+    {"id":{"name":"Spr_wall","path":"sprites/Spr_wall/Spr_wall.yy",},"order":1,},
     {"id":{"name":"spr_eggman_walk","path":"sprites/spr_eggman_walk/spr_eggman_walk.yy",},"order":0,},
     {"id":{"name":"Obj_Eggman_walk","path":"objects/Obj_Eggman_walk/Obj_Eggman_walk.yy",},"order":0,},
+    {"id":{"name":"Obj_wall","path":"objects/Obj_wall/Obj_wall.yy",},"order":1,},
     {"id":{"name":"rm_01","path":"rooms/rm_01/rm_01.yy",},"order":0,},
   ],
   "Options": [
